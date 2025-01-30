@@ -27,6 +27,8 @@ def pm_art_process(art):
     
 
 
+
+# w-flow: Collection of different sources
 def get_pubmedcen_ids(query, max_results=100):
     """
     Inputs a query and max_results
